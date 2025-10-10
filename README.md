@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on [RocketFlow](https://github.com/idontbyte69/rocketflow)
 
-- 🤝 I’m looking for help with [HyperXion](tonmoyx.github.io/HyperXion)
+- 🤝 I’m looking for help with [HyperXion](https://github.com/TonmoyX/HyperXion)
 
-- 👨‍💻 All of my projects are available at [tonmoyx.github.io/Tonmoy.Portfolio](tonmoyx.github.io/Tonmoy.Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tonmoyx.github.io/Tonmoy.Portfolio/)
 
 - 📝 I regularly write articles on [N/A](N/A)
 
