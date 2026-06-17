@@ -121,7 +121,7 @@
 
 <br/>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks, Libraries & Databases
 
 <br/>
 
@@ -131,11 +131,19 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   </a>
 </p>
 
@@ -148,6 +156,14 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="45" height="45"/>
   </a>
 </p>
 
@@ -167,13 +183,12 @@
 
 <br/>
 <p align="left">
-  <img src="https://camo.githubusercontent.com/49e6d4e8c13fbe46d0aea07d9da3617fc864fc989372bc9b9a965a55f74fd199/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746f6e6d6f79782673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyx&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
 
 <br/>
 <p align="left">
-  <img src="https://camo.githubusercontent.com/f89ec99df82007ec82f58729f1bafe4704514d67cedfc75cbe8cf542bb827ba1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746f6e6d6f797826" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx" alt="GitHub Streak"/>
 </p>
 
 <br/>
-
