@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 
 <br/>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
 <br/>
 
 ---
