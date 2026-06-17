@@ -168,13 +168,13 @@
 <br/>
 
 <p align="left">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&](https://camo.githubusercontent.com/49e6d4e8c13fbe46d0aea07d9da3617fc864fc989372bc9b9a965a55f74fd199/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746f6e6d6f79782673686f775f69636f6e733d74727565266c6f63616c653d656e)" alt="GitHub Stats"/>
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&]" alt="GitHub Stats"/>
 </p>
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx" alt="GitHub Streak"/>
+  <img src="https://camo.githubusercontent.com/49e6d4e8c13fbe46d0aea07d9da3617fc864fc989372bc9b9a965a55f74fd199/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746f6e6d6f79782673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Streak"/>
 </p>
 
 <br/>
