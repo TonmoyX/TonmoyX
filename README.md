@@ -4,25 +4,11 @@
 
 ### Passionate Web Developer &nbsp;|&nbsp; CP Enthusiast &nbsp;|&nbsp; Open Source Contributor
 
+</div>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tonmoyx&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tonmoyx)
 &nbsp;&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/@morshed652?logo=twitter&style=for-the-badge)](https://twitter.com/@morshed652)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tonmoyx&theme=flat&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
