@@ -1,46 +1,119 @@
-<h1 align="center">Hi 👋, I'm Morshed Alam Tonmoy</h1>
-<h3 align="center">A passionate Wev Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoyx&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyx" /> </p>
+# Hi there, I'm Morshed Alam Tonmoy 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyx" alt="tonmoyx" /></a> </p>
+### Passionate Web Developer | CP Enthusiast | Open Source Contributor
 
-<p align="left"> <a href="https://twitter.com/@morshed652" target="blank"><img src="https://img.shields.io/twitter/follow/@morshed652?logo=twitter&style=for-the-badge" alt="@morshed652" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=tonmoyx&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tonmoyx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/@morshed652?logo=twitter&style=for-the-badge)](https://twitter.com/@morshed652)
 
-- 🔭 I’m currently working on [Ai module](https://tonmoyx.github.io/Tonmoy.ai/)
+</div>
 
-- 🌱 I’m currently learning **CP Course, React**
+---
 
-- 👯 I’m looking to collaborate on [RocketFlow](https://github.com/idontbyte69/rocketflow)
+## 🏆 GitHub Trophies
 
-- 🤝 I’m looking for help with [Ai module](https://tonmoyx.github.io/Tonmoy.ai/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tonmoyx&theme=flat&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://tonmoyx.github.io/Tonmoy.Portfolio/)
+---
 
-- 📝 I regularly write articles on [N/A](N/A)
+## 👨‍💻 About Me
 
+- 🔭 Currently working on **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
+- 🌱 Currently learning **Competitive Programming & React**
+- 👯 Looking to collaborate on **[RocketFlow](https://github.com/idontbyte69/rocketflow)**
+- 🤝 Looking for help with **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
 - 💬 Ask me about **C, C++, Java**
+- 📫 Reach me at **morshed0173@gmail.com**
+- 📄 View my experiences at **[My Portfolio](https://tonmoyx.github.io/Tonmoy.Portfolio/)**
+- ⚡ Fun fact: **I think I am funny**
 
-- 📫 How to reach me **morshed0173@gmail.com**
+---
 
-- 📄 Know about my experiences [See my portfolio](https://tonmoyx.github.io/Tonmoy.Portfolio/)
+## 🌐 Connect with Me
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@morshed652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@morshed652" height="30" width="40" /></a>
-<a href="https://fb.com/morshed.allam.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morshed.allam.50" height="30" width="40" /></a>
-<a href="https://instagram.com/tonmoy__14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoy__14" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/morshed0173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="morshed0173" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/morshed652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="morshed652" height="30" width="40" /></a>
+  <a href="https://twitter.com/@morshed652" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/morshed.allam.50" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/tonmoy__14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://codeforces.com/profile/morshed0173" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.leetcode.com/morshed652" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyx&show_icons=true&locale=en&layout=compact" alt="tonmoyx" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyx&show_icons=true&locale=en" alt="tonmoyx" /></p>
+### 💻 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&" alt="tonmoyx" /></p>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyx&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyx&show_icons=true&locale=en&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx" alt="GitHub Streak"/>
+</p>
