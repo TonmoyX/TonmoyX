@@ -21,7 +21,9 @@
 ## 🏆 GitHub Trophies
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tonmoyx&theme=flat&margin-w=15&column=7)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tonmoyx&theme=flat&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 
 ---
@@ -33,13 +35,13 @@
 <br/>
 
 - 🔭 &nbsp; Currently working on &nbsp; **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
-- 🌱 &nbsp; Currently learning &nbsp; **Competitive Programming & React**
+- 🌱 &nbsp; Currently learning &nbsp; **Competitive Programming & Backend Developer**
 - 👯 &nbsp; Looking to collaborate on &nbsp; **[RocketFlow](https://github.com/idontbyte69/rocketflow)**
 - 🤝 &nbsp; Looking for help with &nbsp; **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
 - 💬 &nbsp; Ask me about &nbsp; **C, C++, Java**
 - 📫 &nbsp; Reach me at &nbsp; **morshed0173@gmail.com**
-- 📄 &nbsp; View my experiences at &nbsp; **[My Portfolio](https://tonmoyx.github.io/Tonmoy.Portfolio/)**
-- ⚡ &nbsp; Fun fact: &nbsp; **I think I am funny**
+- 📄 &nbsp; View my experiences at &nbsp; **[My Portfolio](https://tonmoyx.netlify.app)**
+- ⚡ &nbsp; Fun fact: &nbsp; **I think I am hungry for explore tech and space**
 
 <br/>
 
@@ -161,7 +163,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="45" height="45"/>
+    <img src="https://img.icons8.com/?size=100&id=TYVDT0rhcQib&format=png&color=000000" alt="Sublime Text" width="45" height="45"/>
   </a>
 </p>
 
