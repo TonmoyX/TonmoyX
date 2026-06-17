@@ -168,7 +168,7 @@
 <br/>
 
 <p align="left">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&]" alt="GitHub Stats"/>
+  <img src="https://camo.githubusercontent.com/f89ec99df82007ec82f58729f1bafe4704514d67cedfc75cbe8cf542bb827ba1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746f6e6d6f797826" alt="GitHub Stats"/>
 </p>
 
 <br/>
