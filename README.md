@@ -168,7 +168,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyx&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&" alt="GitHub Stats"/>
 </p>
 
 <br/>
