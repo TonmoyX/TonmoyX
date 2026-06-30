@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hi there, I'm Morshed Alam Tonmoy 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:FF7A59&height=210&section=header&text=Morshed%20Alam%20Tonmoy&fontSize=44&fontColor=0A0E1A&fontAlignY=36&animation=fadeIn&desc=Web%20Developer%20%7C%20CP%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=56&descSize=18&descColor=0A0E1A" width="100%"/>
 
-### Passionate Web Developer &nbsp;|&nbsp; CP Enthusiast &nbsp;|&nbsp; Open Source Contributor
+<a href="https://github.com/tonmoyx">
+  <img src="https://komarev.com/ghpvc/?username=tonmoyx&label=Profile%20views&color=5EEAD4&style=flat-square" alt="Profile views"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/status-open%20to%20work-FF7A59?style=flat-square" alt="Open to work"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+for+the+web...;Competing+on+Codeforces+%26+LeetCode;Shipping+an+AI+module;Hungry+to+explore+tech+%26+space" alt="Typing SVG"/>
 
 </div>
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tonmoyx&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tonmoyx)
-&nbsp;&nbsp;
-
-<br/>
 
 ---
 
