@@ -14,15 +14,13 @@
 
 </div>
 
----
-
 <br/>
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<!--<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Animated Developer Icon"/>
-</div>
+</div>-->
 
 <br/>
 
@@ -259,12 +257,12 @@
   <!-- Animated Satellite / Deep Space Radar Visual -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Space Radar Tracking Satellite" style="border-radius:12px; border:1px solid #5EEAD4; padding:5px; background:#0A0E1A;"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- Radar Telemetry Readout & Signal Intercept -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=FF7A59&center=true&vCenter=true&width=650&lines=%F0%9F%93%A1+RADAR+STATUS%3A+%5B+SIGNAL+LOCKED+%5D;%F0%9F%91%BD+INTERCEPTED+ALIEN+TRANSMISSION%3A+%22GREETINGS%2C+EARTH!%22;%F0%9F%91%BD+DECODED+MESSAGE%3A+%22SEND+MORE+CODE!%22;%F0%9F%93%B0+COORDINATES%3A+0x41-AI+%7C+FREQ%3A+1420.405+MHz" alt="Live Radar Telemetry Feed"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22+-+Carl+Sagan;%22Coding+is+the+closest+thing+we+have+to+magic.%22;%22From+low-level+C%2B%2B+to+the+outer+edge+of+the+cosmos.%22" alt="Space & Tech Typing Quote"/>
 
