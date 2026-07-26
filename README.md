@@ -192,7 +192,14 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&theme=tokyonight&border=5EEAD4&stroke=5EEAD4&ring=FF7A59&fire=FF7A59" alt="GitHub Streak - Service Temporarily Unavailable" />
+</p>
+
+<br/>
+
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonmoyx&show_icons=true&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&include_all_commits=true&count_private=true" alt="GitHub Stats - Service Temporarily Unavailable" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tonmoyx&layout=compact&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&hide_progress=false&langs_count=6" alt="Top Languages - Service Temporarily Unavailable" height="165"/>
@@ -200,11 +207,6 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&theme=tokyonight&border=5EEAD4&stroke=5EEAD4&ring=FF7A59&fire=FF7A59" alt="GitHub Streak - Service Temporarily Unavailable" />
-</p>
-
-<br/>
 
 ### 📈 Activity Graph
 
