@@ -20,16 +20,45 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Animated Developer Icon"/>
+</div>
+
 <br/>
 
-- 🔭 &nbsp; Currently working on &nbsp; **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
-- 🌱 &nbsp; Currently learning &nbsp; **Competitive Programming & Backend Developer**
-- 👯 &nbsp; Looking to collaborate on &nbsp; **[RocketFlow](https://github.com/idontbyte69/rocketflow)**
-- 🤝 &nbsp; Looking for help with &nbsp; **[AI Module](https://tonmoyx.github.io/Tonmoy.ai/)**
-- 💬 &nbsp; Ask me about &nbsp; **C, C++, Java**
-- 📫 &nbsp; Reach me at &nbsp; **morshed0173@gmail.com**
-- 📄 &nbsp; View my experiences at &nbsp; **[My Portfolio](https://tonmoyx.netlify.app)**
-- ⚡ &nbsp; Fun fact: &nbsp; **I think I am hungry for explore tech and space**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Building & Learning</h3>
+      <ul>
+        <!--<li>🔭 <b>Active Mission:</b> Working on <a href="https://tonmoyx.github.io/Tonmoy.ai/"><b>AI Module</b></a></li>-->
+        <li>🌱 <b>Leveling Up:</b> Mastering <b>Competitive Programming</b> & <b>Backend Systems</b></li>
+        <li>🤝 <b>Open to Collaborations:</b> Contributing to <a href="https://github.com/idontbyte69/rocketflow"><b>RocketFlow</b></a></li>
+        <li>💬 <b>Ask Me Anything About:</b> <code>C</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript</code>, <code>React</code>, <code>Next.js</code> & <code>MongoDb</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Telemetry & Direct Links</h3>
+      <ul>
+        <li>📫 <b>Direct Signal:</b> <a href="mailto:morshed0173@gmail.com">morshed0173@gmail.com</a></li>
+        <li>📄 <b>Interactive Portfolio:</b> <a href="https://tonmoyx.netlify.app">tonmoyx.netlify.app</a></li>
+        <li>⚡ <b>Core Philosophy:</b> Hungry to explore deep tech, systems design, and outer space.</li>
+        <li>📍 <b>Location Base:</b> Earth (Exploring Codeforces & Web Dev)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+  <summary><b>🔍 Click here for a deeper look into my developer profile & background</b></summary>
+  <br/>
+  <blockquote>
+    <p>🎓 Computer Science & Engineering student focused on building high-performance web applications, algorithmic problem-solving, and clean user interfaces.</p>
+    <p>⚙️ <b>Primary Tech Toolset:</b> React, Next.js, Node.js, Express, MongoDB, Tailwind CSS, C++, and Python.</p>
+  </blockquote>
+</details>
 
 <br/>
 
@@ -161,22 +190,88 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyx&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonmoyx&show_icons=true&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&include_all_commits=true&count_private=true" alt="GitHub Stats - Service Temporarily Unavailable" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tonmoyx&layout=compact&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&hide_progress=false&langs_count=6" alt="Top Languages - Service Temporarily Unavailable" height="165"/>
 </p>
 
 <br/>
+
 <p align="left">
-  <img src="https://camo.githubusercontent.com/49e6d4e8c13fbe46d0aea07d9da3617fc864fc989372bc9b9a965a55f74fd199/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746f6e6d6f79782673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&theme=tokyonight&border=5EEAD4&stroke=5EEAD4&ring=FF7A59&fire=FF7A59" alt="GitHub Streak - Service Temporarily Unavailable" />
 </p>
 
 <br/>
+
+### 📈 Activity Graph
+
+<br/>
+
 <p align="left">
-  <img src="https://camo.githubusercontent.com/f89ec99df82007ec82f58729f1bafe4704514d67cedfc75cbe8cf542bb827ba1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746f6e6d6f797826" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonmoyx&theme=tokyonight&bg_color=1a1b26&color=5EEAD4&line=FF7A59&point=5EEAD4&area=true&hide_border=false" alt="Tonmoy's Activity Graph" width="100%"/>
 </p>
 
 <br/>
+
+---
+
+<br/>
+
+## 🌌 Tech Fascination & Cosmic Curiosity
+
+<br/>
+
+> *"The computer was born to solve problems that did not exist before, much like humanity's drive to reach into the unknown cosmos."*
+
+<br/>
+
+<p align="left">
+  To me, software engineering isn't just about writing code—it's about building systems that bridge human creativity with infinite possibilities. Whether I'm optimizing algorithmic complexity on <b>Codeforces</b>, architecting full-stack web applications with <b>Next.js & React</b>, or developing intelligent <b>AI modules</b>, I view every line of code as an engineering step into uncharted territory.
+</p>
+
+<br/>
+
+<p align="left">
+  <b>What drives me forward:</b>
+  <br/><br/>
+  🚀 <b>Space Exploration & Systems Design:</b> Fascinated by distributed architecture, flight computations, orbital mechanics, and satellite software networks.<br/>
+  ⚡ <b>Algorithmic Precision:</b> Deeply engaged in Competitive Programming to sharpen memory optimization and data structure efficiency.<br/>
+  🤖 <b>AI & Future Tech:</b> Exploring machine intelligence and modern backend ecosystems to build high-scale, resilient applications.
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+## 🛰️ Deep Space Radar Telemetry
+
+<br/>
+
+<div align="center">
+
+  <!-- Animated Satellite / Deep Space Radar Visual -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Space Radar Tracking Satellite" style="border-radius:12px; border:1px solid #5EEAD4; padding:5px; background:#0A0E1A;"/>
+
+  <br/><br/>
+
+  <!-- Radar Telemetry Readout & Signal Intercept -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=FF7A59&center=true&vCenter=true&width=650&lines=%F0%9F%93%A1+RADAR+STATUS%3A+%5B+SIGNAL+LOCKED+%5D;%F0%9F%91%BD+INTERCEPTED+ALIEN+TRANSMISSION%3A+%22GREETINGS%2C+EARTH!%22;%F0%9F%91%BD+DECODED+MESSAGE%3A+%22SEND+MORE+CODE!%22;%F0%9F%93%B0+COORDINATES%3A+0x41-AI+%7C+FREQ%3A+1420.405+MHz" alt="Live Radar Telemetry Feed"/>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=%22Somewhere%2C+something+incredible+is+waiting+to+be+known.%22+-+Carl+Sagan;%22Coding+is+the+closest+thing+we+have+to+magic.%22;%22From+low-level+C%2B%2B+to+the+outer+edge+of+the+cosmos.%22" alt="Space & Tech Typing Quote"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A59,100:5EEAD4&height=120&section=footer" width="100%"/>
+</div>
