@@ -160,6 +160,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
 </p>
 
 <br/>
@@ -179,6 +183,10 @@
   &nbsp;&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=TYVDT0rhcQib&format=png&color=000000" alt="Sublime Text" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>
   </a>
 </p>
 
