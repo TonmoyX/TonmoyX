@@ -34,7 +34,7 @@
       <h3>📡 Telemetry & Direct Links</h3>
       <ul>
         <li>📫 <b>Direct Signal:</b> <a href="mailto:morshed0173@gmail.com">morshed0173@gmail.com</a></li>
-        <li>📄 <b>Interactive Portfolio:</b> <a href="https://tonmoyx.vercel.app">tonmoyx.netlify.app</a></li>
+        <li>📄 <b>Interactive Portfolio:</b> <a href="https://tonmoyx.vercel.app">Tonmoy.Portfolio</a></li>
         <li>⚡ <b>Core Philosophy:</b> Hungry to explore deep tech, systems design, and outer space.</li>
         <li>📍 <b>Location Base:</b> Earth (Exploring Codeforces & Web Dev)</li>
       </ul>
