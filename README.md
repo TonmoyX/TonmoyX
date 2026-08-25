@@ -26,7 +26,7 @@
       <h3>🚀 What I'm Building & Learning</h3>
       <ul>
         <li>🌱 <b>Leveling Up:</b> Mastering <b>Competitive Programming</b> & <b>Backend Systems</b></li>
-        <li>🤝 <b>Open to Collaborations:</b> Contributing to <a href="https://github.com/idontbyte69/rocketflow"><b>RocketFlow</b></a></li>
+        <li>🤝 <b>Open to Collaborations:</b> Contributing to <a href="https://foodiego-mu.vercel.app"><b>FoodiEgo</b></a></li>
         <li>💬 <b>Ask Me Anything About:</b> <code>C</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript</code>, <code>React</code>, <code>Next.js</code> & <code>MongoDb</code></li>
       </ul>
     </td>
@@ -34,7 +34,7 @@
       <h3>📡 Telemetry & Direct Links</h3>
       <ul>
         <li>📫 <b>Direct Signal:</b> <a href="mailto:morshed0173@gmail.com">morshed0173@gmail.com</a></li>
-        <li>📄 <b>Interactive Portfolio:</b> <a href="https://tonmoyx.netlify.app">tonmoyx.netlify.app</a></li>
+        <li>📄 <b>Interactive Portfolio:</b> <a href="https://tonmoyx.vercel.app">tonmoyx.netlify.app</a></li>
         <li>⚡ <b>Core Philosophy:</b> Hungry to explore deep tech, systems design, and outer space.</li>
         <li>📍 <b>Location Base:</b> Earth (Exploring Codeforces & Web Dev)</li>
       </ul>
