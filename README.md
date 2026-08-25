@@ -18,10 +18,6 @@
 
 ## 👨‍💻 About Me
 
-<!--<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" alt="Animated Developer Icon"/>
-</div>-->
-
 <br/>
 
 <table>
@@ -29,7 +25,6 @@
     <td width="50%" valign="top">
       <h3>🚀 What I'm Building & Learning</h3>
       <ul>
-        <!--<li>🔭 <b>Active Mission:</b> Working on <a href="https://tonmoyx.github.io/Tonmoy.ai/"><b>AI Module</b></a></li>-->
         <li>🌱 <b>Leveling Up:</b> Mastering <b>Competitive Programming</b> & <b>Backend Systems</b></li>
         <li>🤝 <b>Open to Collaborations:</b> Contributing to <a href="https://github.com/idontbyte69/rocketflow"><b>RocketFlow</b></a></li>
         <li>💬 <b>Ask Me Anything About:</b> <code>C</code>, <code>C++</code>, <code>Java</code>, <code>JavaScript</code>, <code>React</code>, <code>Next.js</code> & <code>MongoDb</code></li>
@@ -201,20 +196,18 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&theme=tokyonight&border=5EEAD4&stroke=5EEAD4&ring=FF7A59&fire=FF7A59" alt="GitHub Streak - Service Temporarily Unavailable" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonmoyx&theme=tokyonight&border=5EEAD4&stroke=5EEAD4&ring=FF7A59&fire=FF7A59" alt="GitHub Streak Stats" />
 </p>
 
 <br/>
-
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonmoyx&show_icons=true&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&include_all_commits=true&count_private=true" alt="GitHub Stats - Service Temporarily Unavailable" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonmoyx&show_icons=true&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&include_all_commits=true&count_private=true" alt="Tonmoy's GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tonmoyx&layout=compact&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&hide_progress=false&langs_count=6" alt="Top Languages - Service Temporarily Unavailable" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyx&layout=compact&theme=tokyonight&border_color=5EEAD4&title_color=5EEAD4&icon_color=FF7A59&hide_progress=false&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <br/>
-
 
 ### 📈 Activity Graph
 
@@ -264,12 +257,10 @@
 
 <div align="center">
 
-  <!-- Animated Satellite / Deep Space Radar Visual -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Space Radar Tracking Satellite" style="border-radius:12px; border:1px solid #5EEAD4; padding:5px; background:#0A0E1A;"/>
 
   <br/>
 
-  <!-- Radar Telemetry Readout & Signal Intercept -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=900&color=FF7A59&center=true&vCenter=true&width=650&lines=%F0%9F%93%A1+RADAR+STATUS%3A+%5B+SIGNAL+LOCKED+%5D;%F0%9F%91%BD+INTERCEPTED+ALIEN+TRANSMISSION%3A+%22GREETINGS%2C+EARTH!%22;%F0%9F%91%BD+DECODED+MESSAGE%3A+%22SEND+MORE+CODE!%22;%F0%9F%93%B0+COORDINATES%3A+0x41-AI+%7C+FREQ%3A+1420.405+MHz" alt="Live Radar Telemetry Feed"/>
 
   <br/>
